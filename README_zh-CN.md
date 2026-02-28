@@ -136,7 +136,7 @@ uvicorn labelu.main:app --reload
 欢迎加入 Opendatalab 官方微信群！
 
 <p align="center">
-<img style="width: 400px" src="https://user-images.githubusercontent.com/25022954/208374419-2dffb701-321a-4091-944d-5d913de79a15.jpg">
+  <img width="400" height="400" alt="20260228-175257" src="https://github.com/user-attachments/assets/8c2a5c23-1a09-4548-b2be-23e75cbc9530" />
 </p>
 
 ## 友情链接
